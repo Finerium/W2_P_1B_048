@@ -5,7 +5,6 @@ out/
 .vscode/
 *.iml
 .DS_Store
-.claude/
 
 # jangan ignore JAR di Soal2/output karena bagian dari tugas
 !Soal2/output/*.jar
